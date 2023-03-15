@@ -22,7 +22,7 @@ def exp(x, y):
     return x ** y
 
 def sqrt(x):
-    return x ** (1/2)# fill here
+    return x ** (1/2)
 
 
 # -------------------------------------- Task 2 -----------------------------------
