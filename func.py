@@ -38,5 +38,5 @@ x1 = (-b+(b ** 2 - 4 * a * c)**(1/2))/(2 * a) # TODO: write a code to compute th
 x2 = (-b-(b ** 2 - 4 * a * c)**(1/2))/(2 * a) # TODO: then do the same for the second root
 # Note: Make sure to remove the ellipsis (...) when you're writing your code
 
-print("First root:" + str(x1))
-print("Second root:" + str(x2))
+print("First root: " + str(x1))
+print("Second root: " + str(x2))
